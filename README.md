@@ -14,6 +14,12 @@
 # Web development
 
 * [gunicorn](https://gunicorn.org/)
+* [The ultimate guide to enabling Cross-Origin Resource Sharing (CORS)](https://blog.logrocket.com/the-ultimate-guide-to-enabling-cross-origin-resource-sharing-cors/)
+
+
+# API development
+
+* [Handling File Uploads With Flask](https://blog.miguelgrinberg.com/post/handling-file-uploads-with-flask)
 
 
 # Cloud storage
@@ -21,9 +27,19 @@
 * [Uploading objects](https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-python)
 
 
+# Deploying ML models
+
+* [Model Serving in PyTorch](https://pytorch.org/blog/model-serving-in-pyorch/)
+* [PyTorch - SAVING AND LOADING MODELS](https://pytorch.org/tutorials/beginner/saving_loading_models.html)
+* [Serving your Machine Learning model in Google Cloud Platform with Python, Docker & Kubernetes](https://medium.com/data-science-from-signify-research-eindhoven/serving-your-machine-learning-model-in-google-cloud-platform-with-python-docker-kubernetes-e8c8b2f8a932)
+
+
 # Création d'entreprise
 
 * [Le guide de l'entrepreneur](https://www.kiwili.com/wp-content/uploads/dlm_uploads/2018/11/guide_de_lentrepreneur_kiwili.pdf)
+
+
+# Misc.
 
 ```
 $ gcloud builds --project PROJECT-ID submit --tag gcr.io/PROJECT-ID/flask-app:v1 .
