@@ -14,6 +14,7 @@
 # Web development
 
 * [gunicorn](https://gunicorn.org/)
+* [WSGI for Web Developers (Ryan Wilson-Perkin)](https://www.youtube.com/watch?v=WqrCnVAkLIo)
 * [The ultimate guide to enabling Cross-Origin Resource Sharing (CORS)](https://blog.logrocket.com/the-ultimate-guide-to-enabling-cross-origin-resource-sharing-cors/)
 
 
@@ -37,6 +38,18 @@
 # Création d'entreprise
 
 * [Le guide de l'entrepreneur](https://www.kiwili.com/wp-content/uploads/dlm_uploads/2018/11/guide_de_lentrepreneur_kiwili.pdf)
+
+
+# Google Cloud Platform
+
+* [GCP Free Tier](https://cloud.google.com/free/docs/gcp-free-tier#free-tier)
+
+
+# Canvas API
+
+* [HTML5 Canvas Tutorial for Beginners | An Intro to Becoming a Pro - Ep. 1](https://www.youtube.com/watch?v=EO6OkltgudE)
+* [Pixel manipulation with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas)
+* [Blending two images with HTML5 canvas](https://www.tutorialspoint.com/Blending-two-images-with-HTML5-canvas)
 
 
 # Misc.
